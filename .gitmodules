@@ -1,3 +1,4 @@
 [submodule "vote-program"]
 	path = vote-program
 	url = git@github.com:deepto98/vote-program.git
+	branch = main
