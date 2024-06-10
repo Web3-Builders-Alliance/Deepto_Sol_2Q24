@@ -2,3 +2,7 @@
 	path = vote-program
 	url = git@github.com:deepto98/vote-program.git
 	branch = main
+[submodule "vault"]
+	path = vault
+	url = git@github.com:deepto98/vault.git
+	branch = main
